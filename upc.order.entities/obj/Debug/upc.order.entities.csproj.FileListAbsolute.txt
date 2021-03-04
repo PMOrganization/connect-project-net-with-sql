@@ -1,0 +1,6 @@
+D:\GitHub\connect-project-net-with-sql\upc.order.entities\bin\Debug\upc.order.entities.dll
+D:\GitHub\connect-project-net-with-sql\upc.order.entities\bin\Debug\upc.order.entities.pdb
+D:\GitHub\connect-project-net-with-sql\upc.order.entities\obj\Debug\upc.order.entities.csprojAssemblyReference.cache
+D:\GitHub\connect-project-net-with-sql\upc.order.entities\obj\Debug\upc.order.entities.csproj.CoreCompileInputs.cache
+D:\GitHub\connect-project-net-with-sql\upc.order.entities\obj\Debug\upc.order.entities.dll
+D:\GitHub\connect-project-net-with-sql\upc.order.entities\obj\Debug\upc.order.entities.pdb
